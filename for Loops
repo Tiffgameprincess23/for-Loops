@@ -1,0 +1,11 @@
+for countToTen;
+
+1 2 3 4 5 6 7 8 9 10;
+
+for calculateSum;
+calculateSum(5) should return 15 (1 + 2 + 3 + 4 + 5).
+calculateSum(10) should return 55 (1 + 2 + 3 + ... + 10).
+
+for printArrayElements
+[1, 4, 7, 2]
+1 4 7 2;
